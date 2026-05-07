@@ -12,15 +12,7 @@
     con enfoque en experiencia, rendimiento y código mantenible.
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/sargdev02" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" height="28" alt="linkedin"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/sargdev02" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" height="28" alt="instagram"/>
-    </a>
-  </p>
+  <p align="center"><a href="https://www.linkedin.com/in/sargdev02" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" height="28" alt="linkedin"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/sargdev02" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" height="28" alt="instagram"/></a></p>
 </div>
 
 <hr>
@@ -58,39 +50,19 @@
 
 <h3 align="center">Lenguajes</h3>
 
-<p align="center">
-  <a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" height="30" alt="angular"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" alt="typescript"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="html5"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="css3"/></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="java"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="python"/></a>
-  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30" alt="php"/></a>
-</p>
+<p align="center"><a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" height="30" alt="angular"/></a>&nbsp;<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" alt="typescript"/></a>&nbsp;<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript"/></a>&nbsp;<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="html5"/></a>&nbsp;<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="css3"/></a>&nbsp;<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="java"/></a>&nbsp;<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="python"/></a>&nbsp;<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30" alt="php"/></a></p>
 
 <br>
 
 <h3 align="center">Herramientas y tecnologías</h3>
 
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="git"/></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" alt="github"/></a>
-  <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="30" height="30" alt="npm"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="mysql"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="postgresql"/></a>
-  <a href="https://restfulapi.net/"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" height="30" alt="postman"/></a>
-</p>
+<p align="center"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="git"/></a>&nbsp;<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" alt="github"/></a>&nbsp;<a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="30" height="30" alt="npm"/></a>&nbsp;<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="mysql"/></a>&nbsp;<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="postgresql"/></a>&nbsp;<a href="https://restfulapi.net/"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" height="30" alt="postman"/></a></p>
 
 <br>
 
 <h3 align="center">Diseño</h3>
 
-<p align="center">
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30" alt="figma"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30" alt="bootstrap"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30" alt="tailwindcss"/></a>
-</p>
+<p align="center"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30" alt="figma"/></a>&nbsp;<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30" alt="bootstrap"/></a>&nbsp;<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30" alt="tailwindcss"/></a></p>
 
 <hr>
 
@@ -109,15 +81,7 @@
 
 <h2 align="center">Contacto</h2>
 
-<p align="center">
-  <a href="mailto:sargdev02@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/573001940615">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" height="28" alt="whatsapp"/>
-  </a>
-</p>
+<p align="center"><a href="mailto:sargdev02@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="gmail"/></a>&nbsp;&nbsp;<a href="https://wa.me/573001940615"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" height="28" alt="whatsapp"/></a></p>
 
 <p align="center">
   <a href="mailto:sargdev02@gmail.com">sargdev02@gmail.com</a>
