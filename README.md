@@ -15,7 +15,7 @@
   Construyo interfaces web modernas, responsivas y centradas en el usuario,
   con enfoque en experiencia, rendimiento y código mantenible.
 </p>
-
+<section style="display: flex">
 <p align="center">
   <a href="https://www.linkedin.com/in/sargdev02" target="_blank" rel="noreferrer">
     <img
@@ -35,7 +35,7 @@
     />
   </a>
 </p>
-
+</section>
 ---
 
 <h2 align="center">Sobre mí</h2>
@@ -67,6 +67,7 @@
 <br>
 
 <h3 align="center">Lenguajes</h3>
+<section style="display: flex">
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" />
@@ -100,10 +101,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" />
   </a>
 </p>
-
+</section>
 <br>
 
 <h3 align="center">Herramientas y tecnologías</h3>
+<section style="display: flex">
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30" />
@@ -129,10 +131,11 @@
     <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="api" width="30" height="30" />
   </a>
 </p>
-
+</section>
 <br>
 
 <h3 align="center">Diseño</h3>
+<section style="display: flex">
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="30" height="30" />
@@ -146,7 +149,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30" />
   </a>
 </p>
-
+</section>
 ---
 
 <h2 align="center">Filosofía de trabajo</h2>
@@ -163,7 +166,7 @@
 ---
 
 <h2 align="center">Contacto</h2>
-
+<section style="display: flex">
 <p align="center">
   <a href="mailto:sargdev02@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" width="28" height="28"/>
@@ -173,7 +176,7 @@
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="whatsapp" width="28" height="28"/>
   </a>
 </p>
-
+</section>
 <p align="center">
   <a href="mailto:sargdev02@gmail.com">sargdev02@gmail.com</a>
   &nbsp;·&nbsp;
